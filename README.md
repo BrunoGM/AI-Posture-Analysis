@@ -36,10 +36,3 @@ Follow these steps to use the Posture Analysis Tool:
     *   A summary of your posture analysis will also be printed in the console, including:
         *   Total recording time.
         *   Percentage of time spent in "Boa Postura," "Postura Media," and "Ma Postura."
-
-## Installation
-
-To run this tool, you need to install the following Python libraries. Use pip to install them:
-
-```bash
-pip install opencv-python mediapipe numpy matplotlib winsound
